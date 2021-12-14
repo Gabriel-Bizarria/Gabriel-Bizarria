@@ -1,6 +1,7 @@
 ## Olá mundo! 🌎
  ##### Sou um estudante de comunicação que está migrando para a área de tecnologia, em desenvolvimento mobile Android nativo. 🗣️👨‍💻
- ##### Possuo conhecimentos em SQLite com uso de API REST Room, e conhecimentos também de Retrofit para consumo de API exteriores.
+ ##### Possuo conhecimentos em Git, Android Studio, Kotlin, e bibliotecas como Retrofit e Room. 📱
+ ##### Muito interessado também em product design.
  
 <div align = "center">
   <a href = "https://www.linkedin.com/in/gabriel-bizarria/">
