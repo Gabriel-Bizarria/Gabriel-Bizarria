@@ -1,7 +1,8 @@
-## Olá mundo! 🌎
- ##### Sou um estudante de comunicação que está migrando para a área de tecnologia, em desenvolvimento mobile Android nativo. 🗣️👨‍💻
- ##### Possuo conhecimentos em Git, Android Studio, Kotlin, e bibliotecas como Retrofit e Room. 📱
- ##### Muito interessado também em product design.
+# Olá mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
+ ### Sobre mim:
+ Sou o Gabriel, tenho 21 anos. Recém-formado em produção audiovisual, estou migrando para a área de desenvolvimento de software mobile.
+ Entrei nesta fase de transição após participar de um bootcamp voltado a programação para apps Android pela ONG Generation Brasil, muito movido por uma vontade e sonho de trabalhar em soluções digitais que as pessoas gostem, facilitem e utilizem em seu dia-a-dia.
+ Atualmente possuo conhecimentos em Kotlin, GIT e bibliotecas como Retrofit e Room. Também gosto e pretendo me aprofundar na área de Design UX e UI.
  
 <div align = "center">
   <a href = "https://www.linkedin.com/in/gabriel-bizarria/">
