@@ -1,6 +1,9 @@
 # Olá mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
- ### Sobre mim:
- Sou o Gabriel, tenho 22 anos. Desenvolvedor Android. Atualmente estudando Tecnologia da Informação pela UNIVESP e trabalhando na área.
+### Sobre mim:
+Sou o Gabriel, tenho 25 anos. Graduado em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo.
+Desenvolvedor Android nativo, e eventualmente aventurando-se um pouco com React Native e algumas tecnologias backend.
+
+ 
 
  
 <div align = "center">
@@ -12,7 +15,9 @@
 <div align = "center" style="display: inline_block"><br>
   <img allign = "center" alt = "DEVICON" height = "52" width = "52" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img allign = "center" alt = "DEVICON" height = "60" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img allign = "center" alt = "DEVICON" height = "60" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img allign = "center" alt = "DEVICON" height = "60" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img allign = "center" alt = "DEVICON" height = "60" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img allign = "center" alt = "DEVICON" height = "60" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 </div>
   
