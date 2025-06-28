@@ -1,10 +1,8 @@
 # Olá mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
-### Sobre mim:
+### Sobre mim
 Sou o Gabriel, tenho 25 anos. Graduado em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo.
+
 Desenvolvedor Android nativo, e eventualmente aventurando-se um pouco com React Native e algumas tecnologias backend.
-
- 
-
  
 <div align = "center">
   <a href = "https://www.linkedin.com/in/gabriel-bizarria/">
